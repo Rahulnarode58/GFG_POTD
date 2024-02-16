@@ -21,7 +21,7 @@ Explanation:
 One can visit the vertices in the following way:
 1->3->4->5->1->4->2->1 (assuming 1-based indexing)
 Here all the vertices has been visited and all
-paths are used exactly once.'''
+paths are used exactly once. '''
 
 class Solution:
     def isPossible(self, paths):
